@@ -1,0 +1,1503 @@
+.group-icon8 {
+  width: 127px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+}
+.group-wrapper1 {
+  align-self: stretch;
+  width: 354px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.home8 {
+  position: relative;
+  display: inline-block;
+  min-width: 84px;
+}
+.acasa4 {
+  height: 48.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.about-us9 {
+  position: relative;
+  white-space: nowrap;
+}
+.despre-noi4 {
+  height: 48.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+}
+.contact9 {
+  position: relative;
+  display: inline-block;
+  min-width: 124px;
+}
+.contacte4,
+.despre-noi-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contacte4 {
+  height: 48.8px;
+  padding: 0 var(--padding-mini) 0 0;
+  box-sizing: border-box;
+}
+.despre-noi-parent2 {
+  gap: var(--gap-4xl);
+  max-width: 100%;
+}
+.acasa-parent2,
+.frame-wrapper41 {
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.acasa-parent2 {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-26xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-antonio);
+}
+.frame-wrapper41 {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-5xl-2);
+  box-sizing: border-box;
+}
+.cart-minus-9797824-1-icon4 {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.cart-minus-9797824-1-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.log-in13 {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  font-family: var(--font-antonio);
+  color: var(--color-black);
+  text-align: left;
+  min-width: 93px;
+  white-space: nowrap;
+}
+.log-in12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-up4 {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  font-family: var(--font-antonio);
+  color: var(--color-black);
+  text-align: left;
+  min-width: 114px;
+  white-space: nowrap;
+}
+.instance-parent2,
+.sing-up4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sing-up4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  justify-content: flex-start;
+}
+.instance-parent2 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-wrapper42 {
+  width: 339px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 14.5px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent40 {
+  align-self: stretch;
+  height: 105.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-child12 {
+  height: 116.3px;
+  width: 1192px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  display: none;
+  max-width: 100%;
+}
+.bars-sort-9851191-1-icon4 {
+  height: 69.4px;
+  width: 74px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.all-categories4 {
+  position: relative;
+  line-height: 36.6px;
+  z-index: 1;
+}
+.all-categories-wrapper2,
+.bars-sort-9851191-1-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.all-categories-wrapper2 {
+  flex-direction: column;
+  padding: var(--padding-base-9) 0 0;
+}
+.bars-sort-9851191-1-parent2 {
+  flex-direction: row;
+  gap: var(--gap-mid);
+}
+.frame-child13 {
+  height: 62.8px;
+  width: 713px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+.search-3917061-1-icon4 {
+  height: 39.4px;
+  width: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 39px;
+  z-index: 1;
+}
+.search-for-other4 {
+  width: 316px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-antonio);
+  font-size: var(--font-size-11xl);
+  background-color: transparent;
+  height: 36.6px;
+  position: relative;
+  line-height: 36.6px;
+  font-weight: 700;
+  color: var(--color-gray-300);
+  text-align: left;
+  padding: 0;
+  z-index: 1;
+}
+.frame-wrapper45,
+.rectangle-parent10 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent10 {
+  align-self: stretch;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 11.2px var(--padding-lg) var(--padding-smi-2);
+  gap: var(--gap-mid);
+  z-index: 1;
+}
+.frame-wrapper45 {
+  width: 713px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-10xs-8);
+}
+.frame-wrapper44,
+.rectangle-parent9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent9 {
+  width: 1192px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-4xl-4) var(--padding-44xl) var(--padding-4xl-5)
+    var(--padding-40xl);
+  gap: var(--gap-xl);
+}
+.frame-wrapper44 {
+  width: 1726px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.link-t2-2023-300x300png5 {
+  height: 224.6px;
+  width: 224.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: bf4bc93;
+}
+.motorcycle-motocross-kt,
+.price1 {
+  align-self: stretch;
+  position: relative;
+}
+.price-wrapper {
+  width: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.eur1 {
+  color: var(--color-black);
+}
+.eur {
+  position: relative;
+}
+.eur-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  min-width: 196px;
+  color: var(--color-orange);
+}
+.frame-child14 {
+  height: 74px;
+  width: 74px;
+  position: relative;
+}
+.frame-parent45,
+.frame-wrapper47 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent45 {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-6xl);
+}
+.frame-wrapper47 {
+  width: 563px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.motorcycle-motocross-kt-250-parent {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xs);
+  debug_commit: bf4bc93;
+}
+.frame-wrapper46,
+.link-t2-2023-300x300png-parent2,
+.motorcycle-motocross-kt-250-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-wrapper46 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-25xl);
+  box-sizing: border-box;
+  min-width: 378px;
+  min-height: 169px;
+}
+.link-t2-2023-300x300png-parent2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-38xl-4);
+}
+.card-separator,
+.frame-parent44 {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.card-separator {
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+}
+.frame-parent44 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs-4);
+  gap: var(--gap-10xs-4);
+  max-width: 100%;
+}
+.link-t2-2023-300x300png6 {
+  height: 224.6px;
+  width: 224.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: bf4bc93;
+}
+.motorcycle-motocross-kt1,
+.price2 {
+  align-self: stretch;
+  position: relative;
+}
+.price-container {
+  width: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.eur3 {
+  color: var(--color-black);
+}
+.eur2 {
+  position: relative;
+}
+.eur-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  min-width: 196px;
+  color: var(--color-orange);
+}
+.frame-child15 {
+  height: 74px;
+  width: 74px;
+  position: relative;
+}
+.frame-parent47,
+.frame-wrapper49 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent47 {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-6xl);
+}
+.frame-wrapper49 {
+  width: 563px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.motorcycle-motocross-kt-250-group {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xs);
+  debug_commit: bf4bc93;
+}
+.frame-wrapper48,
+.link-t2-2023-300x300png-parent3,
+.motorcycle-motocross-kt-250-group {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-wrapper48 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-25xl);
+  box-sizing: border-box;
+  min-width: 378px;
+  min-height: 169px;
+}
+.link-t2-2023-300x300png-parent3 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-38xl-4);
+}
+.frame-parent46,
+.line-div {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.line-div {
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+}
+.frame-parent46 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs-4);
+  gap: var(--gap-10xs-4);
+  max-width: 100%;
+}
+.link-t2-2023-300x300png7 {
+  height: 224.6px;
+  width: 224.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: bf4bc93;
+}
+.motorcycle-motocross-kt2,
+.price3 {
+  align-self: stretch;
+  position: relative;
+}
+.price-frame {
+  width: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.eur5 {
+  color: var(--color-black);
+}
+.eur4 {
+  position: relative;
+}
+.eur-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  min-width: 196px;
+  color: var(--color-orange);
+}
+.frame-child16 {
+  height: 74px;
+  width: 74px;
+  position: relative;
+}
+.frame-parent49,
+.frame-wrapper51 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent49 {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-6xl);
+}
+.frame-wrapper51 {
+  width: 563px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.motorcycle-motocross-kt-250-container {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xs);
+  debug_commit: bf4bc93;
+}
+.frame-wrapper50,
+.link-t2-2023-300x300png-parent4,
+.motorcycle-motocross-kt-250-container {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-wrapper50 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-25xl);
+  box-sizing: border-box;
+  min-width: 378px;
+  min-height: 169px;
+}
+.link-t2-2023-300x300png-parent4 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-38xl-4);
+}
+.frame-child17,
+.frame-parent48 {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.frame-child17 {
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+}
+.frame-parent48 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs-4);
+  gap: var(--gap-10xs-4);
+  max-width: 100%;
+}
+.link-t2-2023-300x300png8 {
+  height: 224.6px;
+  width: 224.6px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  debug_commit: bf4bc93;
+}
+.motorcycle-motocross-kt3,
+.price4 {
+  align-self: stretch;
+  position: relative;
+}
+.price-wrapper1 {
+  width: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.eur7 {
+  color: var(--color-black);
+}
+.eur6 {
+  position: relative;
+}
+.eur-wrapper1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  min-width: 196px;
+  color: var(--color-orange);
+}
+.frame-child18 {
+  height: 74px;
+  width: 74px;
+  position: relative;
+}
+.frame-parent51,
+.frame-wrapper53 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent51 {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-6xl);
+}
+.frame-wrapper53 {
+  width: 563px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs);
+  box-sizing: border-box;
+}
+.motorcycle-motocross-kt-250-parent1 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-9xs);
+  debug_commit: bf4bc93;
+}
+.frame-wrapper52,
+.link-t2-2023-300x300png-parent5,
+.motorcycle-motocross-kt-250-parent1 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frame-wrapper52 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-25xl);
+  box-sizing: border-box;
+  min-width: 378px;
+  min-height: 169px;
+}
+.link-t2-2023-300x300png-parent5 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-38xl-4);
+}
+.frame-child19 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.frame-parent43,
+.frame-parent50 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent50 {
+  align-self: stretch;
+  padding: 0 0 var(--padding-10xs-4);
+  box-sizing: border-box;
+  gap: var(--gap-10xs-4);
+}
+.frame-parent43 {
+  flex: 1;
+  gap: var(--gap-base);
+  min-width: 561px;
+}
+.frame-child20 {
+  width: 788px;
+  height: 755px;
+  position: relative;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.order-amount {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.amount,
+.order-amount {
+  position: relative;
+  z-index: 1;
+}
+.eur9 {
+  color: var(--color-black);
+}
+.eur8 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+  color: var(--color-orange);
+}
+.amount-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.order-amount-separator {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-top: 2px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.order-amount-separator-wrapper {
+  width: 711px;
+  height: 2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl) 0 var(--padding-4xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.delivery {
+  position: relative;
+  z-index: 1;
+}
+.blank-line8,
+.free-delivery,
+.pickup-truck {
+  margin: 0;
+}
+.free-delivery-pickup-container {
+  position: relative;
+  z-index: 1;
+}
+.first-dot,
+.second-dot {
+  position: absolute;
+  border-radius: 50%;
+}
+.first-dot {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.second-dot {
+  top: 3px;
+  left: 3px;
+  background-color: var(--color-orange);
+  width: 16px;
+  height: 16px;
+  z-index: 2;
+}
+.first-dot-parent,
+.third-dot {
+  width: 22px;
+  height: 22px;
+  position: relative;
+}
+.third-dot {
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  border: 0 solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.frame-parent54,
+.frame-wrapper56 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-parent54 {
+  justify-content: flex-start;
+  gap: 60px;
+}
+.frame-wrapper56 {
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-4xs);
+}
+.free-delivery-pickup-truck-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.delivery-parent,
+.frame-wrapper55 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-wrapper55 {
+  width: 247px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+  text-align: right;
+  font-size: var(--font-size-16xl);
+}
+.delivery-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.delivery-to-chisinau {
+  margin: 0;
+}
+.change-address {
+  margin: 0;
+  color: var(--color-orange);
+}
+.delivery-to-chisinau-container {
+  position: relative;
+  z-index: 1;
+}
+.delivery-to-chisinau-change-ad-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: right;
+  font-size: var(--font-size-16xl);
+}
+.frame-parent53 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+  max-width: 100%;
+}
+.checkout-separator,
+.frame-parent52 {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.frame-parent52 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-17xl);
+  gap: 32.5px;
+  max-width: 100%;
+  font-size: var(--font-size-31xl);
+}
+.checkout-separator {
+  height: 2px;
+  position: relative;
+  border-top: 2px solid var(--color-gainsboro);
+  z-index: 1;
+}
+.frame-child21 {
+  height: 110px;
+  width: 618px;
+  position: relative;
+  background-color: var(--color-orange);
+  display: none;
+  max-width: 100%;
+}
+.heckout {
+  position: relative;
+  font-size: 49px;
+  font-family: var(--font-karla);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 2;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xl) var(--padding-xl) var(--padding-8xl)
+    var(--padding-4xl);
+  background-color: var(--color-orange);
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-button:hover {
+  background-color: var(--color-chocolate-100);
+}
+.checkout-separator-parent,
+.frame-wrapper58 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper58 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl) 0 var(--padding-4xl);
+  box-sizing: border-box;
+}
+.checkout-separator-parent {
+  width: 665px;
+  flex-direction: column;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper54,
+.frame-wrapper57,
+.rectangle-parent11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-wrapper57 {
+  flex-direction: row;
+  padding: 0 var(--padding-4xl);
+}
+.frame-wrapper54,
+.rectangle-parent11 {
+  flex-direction: column;
+}
+.rectangle-parent11 {
+  align-self: stretch;
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-black);
+  padding: var(--padding-18xl) var(--padding-lg) var(--padding-12xl)
+    var(--padding-15xl);
+  gap: var(--gap-6xl);
+}
+.frame-wrapper54 {
+  width: 788px;
+  padding: 100.5px 0 0;
+  min-width: 788px;
+  font-size: var(--font-size-61xl);
+}
+.frame-parent42 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-71xl);
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-karla);
+}
+.frame-parent41,
+.frame-parent42,
+.frame-wrapper43 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent41 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 79.4px;
+}
+.frame-wrapper43 {
+  width: 1807px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-14xl);
+  box-sizing: border-box;
+}
+.desktop-3-inner,
+.frame-parent39 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent39 {
+
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 55.5px;
+}
+.desktop-3-inner {
+  width: 1892px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-9xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-orange);
+  font-family: var(--font-antonio);
+}
+.frame-child22 {
+  height: 479px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.about-us10,
+.contact10,
+.home9,
+.log-in14,
+.menu4,
+.sign-in4 {
+  margin: 0;
+}
+.menu-home-about-container4 {
+  height: 287px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.menu-home-about-us-contact-log-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xl-6) 0 0;
+}
+.blank-line9,
+.contacts4 {
+  margin: 0;
+}
+.carrierqodeinteractivecom-gr4,
+.colonial-rd-brooklyn4 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.contacts-7398-colonial-container4 {
+  width: 663px;
+  height: 273px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-height: 273px;
+  word-break: break-word;
+  z-index: 1;
+}
+.contacts-7398-colonial-rd-bro-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xl-6) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.blank-line10,
+.chemical-engineering-projects4,
+.construction-engineering4,
+.mining-engineering4,
+.our-services4,
+.space-program-xyz4,
+.welding-engineering4 {
+  margin: 0;
+}
+.our-services-chemical-container4 {
+  position: relative;
+  z-index: 1;
+}
+.our-services-chemical-engineer-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xl-6) 0 0;
+  box-sizing: border-box;
+  min-width: 464px;
+  max-width: 100%;
+}
+.group-icon9 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.engine-rage4,
+.group4 {
+  position: relative;
+  z-index: 1;
+}
+.engine-rage4 {
+  line-height: 33.9px;
+}
+.group4 {
+  height: 309.6px;
+  width: 381px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-50xl) var(--padding-xl) var(--padding-50xl-4)
+    var(--padding-3xl);
+  box-sizing: border-box;
+  min-width: 381px;
+  max-width: 100%;
+  font-family: var(--font-antonio);
+}
+.desktop-3,
+.frame-parent55,
+.rectangle-parent12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent55 {
+  flex-direction: row;
+  gap: var(--gap-3xl);
+  max-width: 100%;
+}
+.desktop-3,
+.rectangle-parent12 {
+  box-sizing: border-box;
+}
+.rectangle-parent12 {
+  background-color: var(--color-gray-100);
+  flex-direction: row;
+  padding: var(--padding-66xl) var(--padding-base) var(--padding-65xl-4)
+    var(--padding-53xl);
+  gap: var(--gap-56xl);
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-orange);
+  font-family: var(--font-noto-sans);
+}
+.desktop-3 {
+  height: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  overflow: hidden;
+  flex-direction: column;
+  gap: 180px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1825px) {
+  .frame-wrapper54 {
+    flex: 1;
+  }
+  .frame-parent42,
+  .rectangle-parent12 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .frame-wrapper41 {
+    display: none;
+  }
+  .rectangle-parent9 {
+    flex-wrap: wrap;
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .frame-wrapper54 {
+    min-width: 100%;
+  }
+  .rectangle-parent12 {
+    gap: var(--gap-18xl);
+    padding-left: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .desktop-3 {
+    height: auto;
+    gap: var(--gap-71xl);
+  }
+}
+@media screen and (max-width: 925px) {
+  .all-categories4 {
+    font-size: var(--font-size-5xl);
+    line-height: 29px;
+  }
+  .bars-sort-9851191-1-parent2,
+  .rectangle-parent10 {
+    flex-wrap: wrap;
+  }
+  .link-t2-2023-300x300png5 {
+    flex: 1;
+  }
+  .eur,
+  .motorcycle-motocross-kt,
+  .price1 {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-parent45 {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper46 {
+    min-width: 100%;
+  }
+  .link-t2-2023-300x300png-parent2 {
+    flex-wrap: wrap;
+  }
+  .link-t2-2023-300x300png6 {
+    flex: 1;
+  }
+  .eur2,
+  .motorcycle-motocross-kt1,
+  .price2 {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-parent47 {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper48 {
+    min-width: 100%;
+  }
+  .link-t2-2023-300x300png-parent3 {
+    flex-wrap: wrap;
+  }
+  .link-t2-2023-300x300png7 {
+    flex: 1;
+  }
+  .eur4,
+  .motorcycle-motocross-kt2,
+  .price3 {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-parent49 {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper50 {
+    min-width: 100%;
+  }
+  .link-t2-2023-300x300png-parent4 {
+    flex-wrap: wrap;
+  }
+  .link-t2-2023-300x300png8 {
+    flex: 1;
+  }
+  .eur6,
+  .motorcycle-motocross-kt3,
+  .price4 {
+    font-size: var(--font-size-13xl);
+  }
+  .frame-parent51 {
+    flex-wrap: wrap;
+  }
+  .frame-wrapper52 {
+    min-width: 100%;
+  }
+  .link-t2-2023-300x300png-parent5 {
+    flex-wrap: wrap;
+  }
+  .frame-parent43 {
+    min-width: 100%;
+  }
+  .amount,
+  .eur8,
+  .order-amount {
+    font-size: var(--font-size-21xl);
+  }
+  .amount-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .delivery {
+    font-size: var(--font-size-21xl);
+  }
+  .free-delivery-pickup-container {
+    font-size: var(--font-size-9xl);
+  }
+  .delivery-parent {
+    flex-wrap: wrap;
+  }
+  .delivery-to-chisinau-container {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-parent52 {
+    gap: var(--gap-base);
+  }
+  .heckout {
+    font-size: 39px;
+  }
+  .rectangle-parent11 {
+    padding-top: var(--padding-5xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-wrapper54 {
+    padding-top: 65px;
+    box-sizing: border-box;
+  }
+  .frame-parent42 {
+    gap: var(--gap-26xl);
+  }
+  .frame-parent41 {
+    gap: var(--gap-21xl);
+  }
+  .frame-parent39 {
+    gap: var(--gap-9xl);
+  }
+  .contacts-7398-colonial-container4,
+  .menu-home-about-container4,
+  .our-services-chemical-container4 {
+    font-size: var(--font-size-5xl);
+  }
+  .our-services-chemical-engineer-wrapper2 {
+    flex: 1;
+    min-width: 100%;
+  }
+  .engine-rage4 {
+    font-size: var(--font-size-5xl);
+    line-height: 27px;
+  }
+  .group4 {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frame-parent55 {
+    flex-wrap: wrap;
+  }
+  .rectangle-parent12 {
+    gap: var(--gap-lgi);
+    padding-top: var(--padding-36xl);
+    padding-bottom: var(--padding-36xl);
+    box-sizing: border-box;
+  }
+  .desktop-3 {
+    gap: var(--gap-26xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .acasa-parent2 {
+    display: none;
+    gap: var(--gap-3xl);
+  }
+  .all-categories4 {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+  .eur,
+  .motorcycle-motocross-kt,
+  .price1 {
+    font-size: var(--font-size-5xl);
+  }
+  .link-t2-2023-300x300png-parent2 {
+    gap: var(--gap-10xl);
+  }
+  .eur2,
+  .motorcycle-motocross-kt1,
+  .price2 {
+    font-size: var(--font-size-5xl);
+  }
+  .link-t2-2023-300x300png-parent3 {
+    gap: var(--gap-10xl);
+  }
+  .eur4,
+  .motorcycle-motocross-kt2,
+  .price3 {
+    font-size: var(--font-size-5xl);
+  }
+  .link-t2-2023-300x300png-parent4 {
+    gap: var(--gap-10xl);
+  }
+  .eur6,
+  .motorcycle-motocross-kt3,
+  .price4 {
+    font-size: var(--font-size-5xl);
+  }
+  .link-t2-2023-300x300png-parent5 {
+    gap: var(--gap-10xl);
+  }
+  .order-amount {
+    font-size: var(--font-size-5xl);
+  }
+  .amount,
+  .delivery,
+  .eur8 {
+    font-size: var(--font-size-11xl);
+  }
+  .delivery-to-chisinau-container,
+  .free-delivery-pickup-container {
+    font-size: var(--font-size-2xl);
+  }
+  .heckout {
+    font-size: 29px;
+  }
+  .frame-wrapper54 {
+    padding-top: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .frame-parent42 {
+    gap: var(--gap-3xl);
+  }
+  .frame-parent41 {
+    gap: var(--gap-xl);
+  }
+  .contacts-7398-colonial-container4,
+  .engine-rage4,
+  .menu-home-about-container4,
+  .our-services-chemical-container4 {
+    font-size: var(--font-size-lg);
+  }
+  .engine-rage4 {
+    line-height: 20px;
+  }
+}
